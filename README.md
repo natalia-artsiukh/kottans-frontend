@@ -24,6 +24,10 @@ Also my experience:
 
 ___
 # Stage_0
+
+ - [x] **Git, GitHub, git flow**
+ - [ ]
+
 [x] **Git, GitHub, git flow**
 
 [ ] **Linux, командний рядок, основи нетворкінгу**
