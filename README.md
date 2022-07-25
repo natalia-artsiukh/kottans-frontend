@@ -26,19 +26,11 @@ ___
 # Stage_0
 
  - [x] **Git, GitHub, git flow**
- - [ ]
-
-[x] **Git, GitHub, git flow**
-
-[ ] **Linux, командний рядок, основи нетворкінгу**
-
-[ ] **HTML, CSS**
-
-[ ] **JS basics**
-
-[ ] **Frontend framework basics (React)**
-
-[ ] **TypeScript basics**
+ - [ ] **Linux, командний рядок, основи нетворкінгу**
+ - [ ] **HTML, CSS**
+ - [ ] **JS basics**
+ - [ ] **Frontend framework basics (React)**
+ - [ ] **TypeScript basics**
 
 ___
 ## Git, GitHub, git flow 
