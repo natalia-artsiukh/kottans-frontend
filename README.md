@@ -15,11 +15,20 @@ On this moment i have next skills:
 And my experience:
 
 * Four marathons from GoIT
-* Responsive Web Design from FreeCodeCamp
-<details>
+* Responsive Web Design from FreeCodeCamp <details>
   <summary>The certificate</summary>
  <img src="https://github.com/natalia-artsiukh/kottans-frontend/blob/main/certifies.png">
 </details>
+
+___
+# Stage_0
+[x] **Git, GitHub, git flow**
+[ ] **Linux, командний рядок, основи нетворкінгу**
+[ ] **HTML, CSS**
+[ ] **JS basics**
+[ ] **Frontend framework basics (React)**
+[ ] **TypeScript basics**
+
 
 
 
