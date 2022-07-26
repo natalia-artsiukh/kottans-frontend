@@ -74,7 +74,7 @@ In this module I:
   * [first part](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
   * [second part](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
 
-> Как я писала в одном из предыдущих размышлений: английский - не моя сильная сторона. Поэтому статьи я читала в адоптации. Учитывая качество этой самой адоптации и не самый простой стиль изложения - информаия была сложная для понимания. Поэтому для того, что понять вопрос я обратилось к великому и могучему гуглу за помощью. Он великодушно подсунул мне видио про [HTTP](https://www.youtube.com/watch?v=TrbqYu3rimA), [HTTPS](https://www.youtube.com/watch?v=TrbqYu3rimA) и [API](https://www.youtube.com/watch?v=Oth4ZuAUomo), благодаря которым я разобралась в теме и статьи стали гораздо понятнее.
+> Как я писала в одном из предыдущих размышлений: английский - не моя сильная сторона. Поэтому статьи я читала в адоптации. Учитывая качество этой самой адоптации и не самый простой стиль изложения - информаия была сложная для понимания. Поэтому для того, что понять вопрос я обратилось к великому и могучему гуглу за помощью. Он великодушно подсунул мне видио про [HTTP](https://www.youtube.com/watch?v=sboscOZzOO0), [HTTPS](https://www.youtube.com/watch?v=TrbqYu3rimA) и [API](https://www.youtube.com/watch?v=Oth4ZuAUomo), благодаря которым я разобралась в теме и статьи стали гораздо понятнее.
 
 ___
 
