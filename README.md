@@ -78,6 +78,27 @@ In this module I:
 
 ___
 
+## Git Collaboration
+
+In this module I: 
+
+* lisened [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github) 
+> И снова - это было позновательно и полезно. Хоть и отсутсвие у меня знаний по Pyton немного усложняло понимание, я, таки, справила. Лектор Кенни - просто огонь, хотя по началу казался суровым и безэмоциональным. Думаю буду даже скучать по нему) 
+
+* passed game [learngitbranching.js.org](https://learngitbranching.js.org/?locale=ru_RU)
+<details>
+    <summary>Screenshot 1</summary>
+    <img src="https://github.com/natalia-artsiukh/kottans-frontend/blob/main/task_git_collaboration/learngit1.jpg">
+</details>
+ <details>
+    <summary>Screenshot 2</summary>
+    <img src="https://github.com/natalia-artsiukh/kottans-frontend/blob/main/task_git_collaboration/learngit2.jpg">
+</details>
+
+> Не смотря на моё недовольство от этой игры в первом модуле в этот раз мне было значительно понятнее и, соответсвенно, проще. Больше знаний (которые я приобрела как на лекциях, так и во время теоритической части игры) значительно упростило задания. Плюс я поняла что меня "бесило" (и продолжает, но понимание облегчает отношение) - создатель игры предпочитает использовать метод rebase и "чистую" линейную историю, а я (как и Кенни *лектор Cursera*) - за merge и сохранении всей истории манипуляций) Я освоила оба подхода и смогу без проблем пользовать тем, который будет необходим в той или иной компании.
+
+___
+
 ***To be continued...***
 
 
