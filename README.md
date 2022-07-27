@@ -26,7 +26,7 @@ ___
 # Stage_0
 
  - [x] **Git, GitHub, git flow**
- - [ ] **Linux, командний рядок, основи нетворкінгу**
+ - [x] **Linux, командний рядок, основи нетворкінгу**
  - [ ] **HTML, CSS**
  - [ ] **JS basics**
  - [ ] **Frontend framework basics (React)**
@@ -96,6 +96,24 @@ In this module I:
 </details>
 
 > Не смотря на моё недовольство от этой игры в первом модуле в этот раз мне было значительно понятнее и, соответсвенно, проще. Больше знаний (которые я приобрела как на лекциях, так и во время теоритической части игры) значительно упростило задания. Плюс я поняла что меня "бесило" (и продолжает, но понимание облегчает отношение) - создатель игры предпочитает использовать метод rebase и "чистую" линейную историю, а я (как и Кенни *лектор Cursera*) - за merge и сохранении всей истории манипуляций) Я освоила оба подхода и смогу без проблем пользовать тем, который будет необходим в той или иной компании.
+
+___
+
+## Intro to HTML and CSS
+
+Today I:
+
+* lisened [Intro to HTML & CSS](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
+> Слушала с большим ускорением, так как с информацией в лекциях хорошо знакома, благодаря своему опыту. Немножко освежила знания. А вот из нового: познакомилась с первой, в своей жизни, библиотекой [Bootstrap](https://getbootstrap.com/). Эот дало общее представление о библиотеках и особенности конкретно этой.
+
+* complited [Learn HTML](https://www.codecademy.com/learn/learn-html) and [Learn CSS](https://www.codecademy.com/learn/learn-css)
+>Никаких сложностей при прохождении я не испытала, так как изучала это тему более углубленно ранее и в [Bio](https://github.com/natalia-artsiukh/kottans-frontend#bio) есть сертификат от [freeCodeCamp](https://www.freecodecamp.org/)
+
+
+ <details>
+    <summary>Screenshot</summary>
+    <img src="https://github.com/natalia-artsiukh/kottans-frontend/blob/main/task_html_css_intro/learnHTML_CSS.jpeg">
+</details>
 
 ___
 
