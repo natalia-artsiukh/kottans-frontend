@@ -117,6 +117,37 @@ Today I:
 
 ___
 
+## Responsive Web Design
+
+In this module I: 
+
+* read [Responsive web design basics](https://web.dev/i18n/en/responsive-web-design-basics/) 
+> Вся инормация в данной статье мне знакома. Из полезного: я читала с телефона и сайт не был адаптивен - очень иронично. Зато я сообщила об ошибке разработчикам (внизу сайта была соответствующая ссылка на GitHub). Так что я воспользовалась получиными на прошлых уроках знаниями о GitHub. Не думаю что мне ответят, но пусть будет)
+
+* looked [FLEXBOX. Вчимося верстати на флексах](https://www.youtube.com/playlist?list=PLM6XATa8CAG5mPV60dMmjMRrHVW4LmV2x)
+> С FlexBox я так же знакома и использовала. Так что было полезно обновить свои знания. А вот видео Жени Андриканича давно планировала посмотреть, так что была рада увидеть его в этом курсе). Единственное, он не упомянул о еще одно значении свойства 'justify-content' - 'space-evenly'
+
+* passed game [Flexbox Froggy](http://flexboxfroggy.com/#ru)
+ <details>
+    <summary>Flexbox Froggy</summary>
+    <img src="https://github.com/natalia-artsiukh/kottans-frontend/blob/main/task_responsive_web_design/flex.jpg">
+</details>
+
+> Где-то месяцев 5-6 назад уже проходила игру, так что она не вызвала сложностей. 
+
+* looked [CSS Grid Layout](https://www.youtube.com/watch?v=GV92IdMGFfA&list=PLM6XATa8CAG5pXQrW_kDaeZb_uIAMNZIm)
+> С Grid Layout я тоже уже знакома, но значительно меньше (хотя один раз даже ипользовала), чем с FlexBox. Так что видео были очень познавательны.
+
+* passed game [Grid Garden](http://cssgridgarden.com/#ru)
+ <details>
+    <summary>Grid Garden</summary>
+    <img src="https://github.com/natalia-artsiukh/kottans-frontend/blob/main/task_responsive_web_design/grid.jpeg">
+</details>
+
+> А вот в эту не играла. И, так как не очень давно знакома с GridLayout - немножко повозилась с последними заданиями. А так было интересно и забавно)
+
+___
+
 ***To be continued...***
 
 
