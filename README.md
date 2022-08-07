@@ -25,12 +25,21 @@ Also my experience:
 ___
 # Stage_0
 
- - [x] **Git, GitHub, git flow**
- - [x] **Linux, командний рядок, основи нетворкінгу**
- - [ ] **HTML, CSS**
- - [ ] **JS basics**
- - [ ] **Frontend framework basics (React)**
- - [ ] **TypeScript basics**
+ - [x] **Git Basics**
+ - [x] **Linux CLI and Networking**
+ - [x] **VCS (hello gitty), GitHub and Collaboration**
+ - [x] **Intro to HTML & CSS**
+ - [x] **Responsive Web Design**
+ - [x] **HTML & CSS Practice**
+ - [x] **JavaScript Basics**
+ - [ ] **Document Object Model - practice**
+ - [ ] **Building a Tiny JS World (pre-OOP) - practice**
+ - [ ] **Object oriented JS - practice**
+ - [ ] **OOP exercise - practice**
+ - [ ] **Offline Web Applications - optional**
+ - [ ] **Memory pair game — real project!**
+ - [ ] **Website Performance Optimization - optional**
+ - [ ] **Friends App - real project!**
 
 ___
 ## Git, GitHub, git flow 
@@ -147,6 +156,42 @@ In this module I:
 > А вот в эту не играла. И, так как не очень давно знакома с GridLayout - немножко повозилась с последними заданиями. А так было интересно и забавно)
 
 ___
+
+## JS Basics
+
+In this module I:
+* lisened [Вступ до JS](https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/week/4)
+> Начну с того, что лекции я слушала уже после прохождения FreeCodeCamp, так как в приветственном видео было сказано, ч то этот курс раситан на тех, кто уже знаком с понятиями массивой и фукция. А я впервые прикоснулась к изучению языка. После решения всех необходимых задач на fcc видео было достаточно просто смотреть. Но, так как я перелопатила кучу информации о js во время решения задачек, то ничего нового не узнала. Просто закрепила полученные знания. 
+
+* complited [Basic JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/), [ES6 Challenges](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/), [Basic Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/), [Basic Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/), [Functional Programming](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/), [Algorithm Scripting Challenges](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/)
+
+ <details>
+    <summary>Basic JavaScript</summary>
+    <img src="https://github.com/natalia-artsiukh/kottans-frontend/blob/main/task_js_basics/fccBasicJS.jpg">
+</details>
+ <details>
+    <summary>ES6 Challenges</summary>
+    <img src="https://github.com/natalia-artsiukh/kottans-frontend/blob/main/task_js_basics/fccES6.jpg">
+</details>
+ <details>
+    <summary>Basic Data Structures</summary>
+    <img src="https://github.com/natalia-artsiukh/kottans-frontend/blob/main/task_js_basics/fccBasic%20DataStructures.jpg">
+</details>
+ <details>
+    <summary>Basic Algorithm Scripting</summary>
+    <img src="https://github.com/natalia-artsiukh/kottans-frontend/blob/main/task_js_basics/fccBasicAlgoritmScripting.jpg">
+</details>
+ <details>
+    <summary>Functional Programming</summary>
+    <img src="https://github.com/natalia-artsiukh/kottans-frontend/blob/main/task_js_basics/fccFunctionalProgramming.jpg">
+</details>
+ <details>
+    <summary>Algorithm Scripting Challenges</summary>
+    <img src="https://github.com/natalia-artsiukh/kottans-frontend/blob/main/task_js_basics/fccIntermediateAlgoritmScripting.jpg">
+</details>
+
+> Ну что ж...это была самая сложная неделя для меня. Я будто упала в кроличью нору. До ыоскресенья(31.07.2022) я в жизни не сталкивалась лицом к лицу с JavaScript и сказать, что мне было сложно - ничего не сказать. Помимо того, что я решала задачки во fcc, я так же решила несколько(8) более практичных задач, написаных лично для меня. Они включали в себя ветвление, массивы, объекты, функции и другие важные аспекты. Первый блок во fcc дался мне с психами и слезами. Но внезапно появившееся упрямство и желание во что бы то ни стало попасть в 30ку учеников котанов. Он занял у меня около трёх дней. Дальше я приступила к изучению *ES6* - вот тут мне было намного проще. Что-то уже было в голове и на это что-то новая информация ложилась значительно проще. Та же история была и с блоком *Basic Data Structures*. А вот *Basic Algorithm Scripting* был сложнее - таки решать задачки по js, когда вся имеющаяся, в голове, база, во-первых, малочислена, во-вторых, очень "сырая". Путем долгих размышлений и помощи со стороны - я, таки, справилась и пошла дальше к *Functional Programming*. Вот тут мне было и интересно и понятно. Естественно, некоторые задания заставили попотеть. Но в общем целов этот блок был информативен, полезен и интересон. А вот после этого...*Algorithm Scripting Challenges*. Не смотря на скрин с пройденым блоком - я его не прошла. Он оказался слишком сложен хотя бы потому, что знаний полученных ранее не хватало на решение боьшенства задач (ну или мне они просто не дались). Необходимо было зна знать методы и команды, с которыми я еще не познакомилась. С одной стороны: честнее было бы остановиться и выучить все эти команды на сторонних ресурсах. Но с другой: я и так откусила больше, чем следовало бы, а заглянув чуть вперед поняла, что знание этих, невыученных мной, команд пока непонадобиться. Поэтом я с абсолютно нечистой совестью (все еще продолжаю грызть себе изнутри за халтуру) закончила блок при помощи подсказок. Справидливости ради: задачки 3-4 я решила сама от и до. Я отдаю себе отчет, что мне необходимо будет вернуться и все седалть самой, но за эту неделю я очень устала от отсутствия осязаемого результа. Поэтому перехожу к практике и посмотрю как новоприобретенные знания помогут в реальных задачах. 
+
 
 ***To be continued...***
 
