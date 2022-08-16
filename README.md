@@ -33,7 +33,7 @@ ___
  - [x] **HTML & CSS Practice**
  - [x] **JavaScript Basics**
  - [x] **Document Object Model - practice**
- - [ ] **Building a Tiny JS World (pre-OOP) - practice**
+ - [x] **Building a Tiny JS World (pre-OOP) - practice**
  - [ ] **Object oriented JS - practice**
  - [ ] **OOP exercise - practice**
  - [ ] **Offline Web Applications - optional**
@@ -215,6 +215,21 @@ In this module I:
 > Этот тоже блок задач, оторые мне надавались ранее. И с ним я поступила точно так же (теперь сижу и краснею). 
 
 [DEMO](https://natalia-artsiukh.github.io/kottans_homework2/)
+____
+
+## Building a Tiny JS World
+
+[DEMO](https://natalia-artsiukh.github.io/a-tiny-JS-world/)
+____
+## Object Oriented JS
+
+In this module I:
+
+* looked 
+  * [ООП 1 частина - Класи](https://www.youtube.com/watch?v=jgCiWIdUZ-s&list=PLM7wFzahDYnEltE-aVGhRHYPwIJn0Xquu&index=40)
+  * [ООП 2 частина - Прототипи](https://www.youtube.com/watch?v=e-3GS5-rak8&list=PLM7wFzahDYnEltE-aVGhRHYPwIJn0Xquu&index=46)
+
+  > Посмотрела. Пока все ясно. Но, как показала практика, еще не раз вернусь к теории во время выполнения практики (извините за тавтологию). Про классы помню еще из задач во fcc. Про прототипы мельком тоже читала. Буду еще углубляться)
 
 ***To be continued...***
 
