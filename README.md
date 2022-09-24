@@ -34,8 +34,8 @@ ___
  - [x] **JavaScript Basics**
  - [x] **Document Object Model - practice**
  - [x] **Building a Tiny JS World (pre-OOP) - practice**
- - [ ] **Object oriented JS - practice**
- - [ ] **OOP exercise - practice**
+ - [x] **Object oriented JS - practice**
+ - [x] **OOP exercise - practice**
  - [ ] **Offline Web Applications - optional**
  - [ ] **Memory pair game — real project!**
  - [ ] **Website Performance Optimization - optional**
@@ -243,6 +243,10 @@ In this module I:
 > Ну и конечно же практическая работа. Сначала, естественно, было ничего не понятно. Но после пары часов чтения кода ситуация потихоньку начала проясняться. Заодно посмотрела пару роликов про игры на JS) 
 
 ___
+
+## OOP exercise - practice
+
+* [DEMO](https://natalia-artsiukh.github.io/Friends-app/)
 
 
 ***To be continued...***
